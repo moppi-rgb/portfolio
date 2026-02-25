@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+video {
+	width: min(50rem, 80vw);
+}
+a {
+	color: #18adc9;
+}
+a:visited {
+	color: #128bd2;
+}
+.h-container {
+	margin-block: 4rem 6rem;
+}
+.a-container {
+	display: flex;
+	flex-direction: column;
+	gap: 4rem;
+	margin-block: 2rem 6rem;
+}
+.f-container {
+	margin-block: 6rem 0;
+}
